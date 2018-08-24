@@ -1,0 +1,4 @@
+1.定义上传目录 下载目录
+2.uploadfile()
+3.downloadfile()
+4.showfilelist()
